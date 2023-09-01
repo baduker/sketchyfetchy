@@ -1,2 +1,2 @@
 # sketchyfetchy
-The Comically Poor Scraper for Poorly Drawn Lines (https://poorlydrawnlines.com/)
+The Comically Poor Scraper for [Poorly Drawn Lines](https://poorlydrawnlines.com/)
